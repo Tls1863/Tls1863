@@ -1,7 +1,7 @@
-My name is John doe
+My name is jaylen
 
 <!--
-**Tls1863/Tls1863** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Jaylen/poole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
